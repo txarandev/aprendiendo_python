@@ -3,8 +3,8 @@ print("Estoy aprendiendo Python!!!!\n")
 print("Y esto es la bombaaaa!!!!\n")
 # \n muestra un salto de linea, la 'n' es la primera letra de newline.
 #'\' se usa como metodo de escape para algunos caracteres. 
-print("\\")
-print("\"Hola mundo!!!!\"")
+print("\\") #imprime \
+print("\"Hola mundo!!!!\"") 
 
 #usando varios argumentos separamos con ','
 print("Hola mundo", "estoy aprendiendo python", "y es genial!!!!!")

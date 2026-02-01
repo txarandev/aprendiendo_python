@@ -1,7 +1,7 @@
 #tipos de datos
 
 #tipo STRING, cadenas texto.
-print("2")
+print("1,","2," ,"3,", "Esto son cadenas de texto!!!")
 
 #tipo INT, enteros.
 print(2)
@@ -21,6 +21,11 @@ print(0o123) #imprime 83
 
 #tipo hexadecimal '0x' con un valor en (decimal).
 print(0x123) #imprime 291
+
+#tipo booleanos, True(verdadero), False(falso).
+print(True > False) #imprime True
+print(True < False) #imprime False
+
 
 
 
