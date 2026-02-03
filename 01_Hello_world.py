@@ -1,4 +1,4 @@
-#Esto es un comentario en python
+#Para realizar un comentario en python usamos '#'
 print("Estoy aprendiendo Python!!!!\n")
 print("Y esto es la bombaaaa!!!!\n")
 # \n muestra un salto de linea, la 'n' es la primera letra de newline.
@@ -11,14 +11,14 @@ print("Hola mundo", "estoy aprendiendo python", "y es genial!!!!!")
 
 #print tiene varios argumentos uno de ellos es 'end' y el otro 'sep'.
 print("Hola", "mundo", "cruel", "!!!!", sep="_")
-print("Programming","Essentials","in", sep="***", end="...")
+print("Programming","Essentials","in", sep="***", end="...\n")
 
-# print("    *",      "    *")
-# print("   * *",     "   * *")
-# print("  *   *",    "  *   *")
-# print(" *     *",   " *     *")
-# print("***   ***",  "***   ***")
-# print("  *   *",    "  *   *")
-# print("  *   *",    "  *   *")
-# print("  *****",    "  *****")
+print("    *")
+print("   * *")
+print("  *   *")
+print(" *     *")
+print("***   ***")
+print("  *   *")
+print("  *   *")
+print("  *****")
 
