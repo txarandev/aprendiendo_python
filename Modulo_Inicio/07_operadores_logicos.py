@@ -26,5 +26,6 @@ print(num < 5) #Imprime True.
 print(num <= 3) #Imprime True
 print(num <= 1) #Imprime False
 
-
-
+#Usando los operadores logicos.
+n = int(input("Ingresa un número: "))
+print(n >= 100) #Imprime True si el valor es igual o mas que 100.
