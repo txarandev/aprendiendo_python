@@ -22,3 +22,15 @@ print("  *   *")
 print("  *   *")
 print("  *****")
 
+#esto es un ejemplo de multilinea usando '"""'
+print(
+"""
++================================+
+| ¡Bienvenido a mi juego, muggle!|
+| Introduce un número entero     |
+| y adivina qué número he        |
+| elegido para ti.               |
+|¿Cuál es el número secreto?     |
++================================+
+""")
+
