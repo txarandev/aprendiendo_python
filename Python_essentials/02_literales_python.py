@@ -26,10 +26,3 @@ print(0o123) #imprime 83
 
 #tipo hexadecimal '0x' con un valor en (decimal).
 print(0x123) #imprime 291
-
-
-
-
-
-
-
