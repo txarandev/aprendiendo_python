@@ -15,16 +15,19 @@ print(3E8) # imprime 300000000
 #codificando flotantes:
 print( 0.0000000000000000001) #imprime la potencia 1e-19
 
-#PARA ESTOS DOS TIPOS MIRAR info_octal_hexa.txt
+#tipo booleanos, True(verdadero), False(falso).
+print(True > False) #imprime True
+print(True < False) #imprime False
+
+#PARA ESTOS DOS TIPOS MIRAR CARPETA 'mas_info:02_info_octal_hexa.txt.
+
 #tipo octal '0o' y solo debe tener dijitos del [0 al 7]. Número octal con un valor (decimal) 
 print(0o123) #imprime 83
 
 #tipo hexadecimal '0x' con un valor en (decimal).
 print(0x123) #imprime 291
 
-#tipo booleanos, True(verdadero), False(falso).
-print(True > False) #imprime True
-print(True < False) #imprime False
+
 
 
 

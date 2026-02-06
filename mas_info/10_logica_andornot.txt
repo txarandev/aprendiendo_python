@@ -1,0 +1,8 @@
+Puedes estar familiarizado con las leyes de De Morgan. Dicen que:
+--La negación de una conjunción es la separación de las negaciones.
+--La negación de una disyunción es la conjunción de las negaciones.
+
+asi seria el codigo escrito en PYTHON:
+not (p and q) == (not p) or (not q)
+not (p or q) == (not p) and (not q)
+

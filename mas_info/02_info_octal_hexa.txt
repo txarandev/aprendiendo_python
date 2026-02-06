@@ -11,12 +11,12 @@ Las posiciones representan potencias de 8 (\(8^{0}=1\), \(8^{1}=8\), \(8^{2}=64\
 Relación con binario: 
 Se utiliza porque 8 es una potencia de 2 (\(8=2^{3}\)), lo que permite agrupar bits de tres en tres. 
 
-
 ------------------------------------------------------------------
 
+En el sistema hexadecimal (base 16), cada dígito representa una potencia de 16 según su posición, 
+comenzando desde la derecha (posición 0).
+Para el número \(123_{16}\), las potencias son:
 
-En el sistema hexadecimal (base 16), cada dígito representa una potencia de 16 según su posición, comenzando desde la derecha (posición 0).
-Para el número \(123_{16}\), las potencias son: 
 Dígito 3: \(16^{0}\)
 Dígito 2: \(16^{1}\)
 Dígito 1: \(16^{2}\) 

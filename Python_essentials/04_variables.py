@@ -7,11 +7,8 @@ a = 3
 b = 6
 c = 7
 
-
-
 #modificando el valor de una variable.
 d = c + 2
-
 
 #usando variables para conversiones
 kilometers = 50

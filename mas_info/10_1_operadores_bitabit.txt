@@ -1,0 +1,12 @@
+Sin embargo, hay cuatro operadores que le permiten manipular bits de datos individuales.
+Se denominan operadores bit a bit.
+
+Cubren todas las operaciones que mencionamos anteriormente en el contexto lógico, y un operador adicional. 
+Este es el operador xor (significa o exclusivo ), y se denota como ^ (signo de intercalación).
+
+Aquí están todos ellos:
+
+& (ampersand) ‒ conjunción a nivel de bits;
+| (barra vertical) - disyunción a nivel de bits;
+~ (tilde) - negación a nivel de bits;
+^ (signo de intercalación) - o exclusivo a nivel de bits (xor).
