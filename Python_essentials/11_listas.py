@@ -60,3 +60,36 @@ for i in range(len(my_list)):
     total += my_list[i]
 
 print(total)
+
+#Creando un lista nueva a partir de otra lista. usando la rebanada [start:end]
+my_lista = [10, 8, 6, 4, 2]
+new_list = my_lista[1:3] #Crea una nueva lista con los valores [8,6]
+print(new_list)
+
+#imprime todos los valores en una nueva lista si no se le pasa ningún valor:
+listita = my_lista[:]
+print(listita)
+
+#Operadores 'IN'  y 'NOT IN': sirven para establcer si es que esta o no esta el elemento en la lista.
+my_list1 = [0, 3, 12, 8, 2]
+
+print(5 in my_list1)
+print(5 not in my_list1)
+print(12 in my_list1)
+
+#Ejemplos usando listas
+my_list2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+to_find = 5
+found = False
+
+for i in range(len(my_list2)):
+    found = my_list2[i] == to_find
+    if found:
+        break
+if found:
+    print("Elemento encontrado en el índice", i)
+else:
+    print("ausente")
+
+
+
